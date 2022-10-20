@@ -1,0 +1,4 @@
+include ':clinetb'
+include ':ipc'
+include ':app'
+rootProject.name = "IPCManiu"
